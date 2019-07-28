@@ -21,6 +21,7 @@ added
 one more line 
 one more
 
-
+@CWD
+@staging area
 @Repository
 Remote
